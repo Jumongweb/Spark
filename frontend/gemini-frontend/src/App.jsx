@@ -32,7 +32,7 @@ function App() {
   return (
     <div className='App'>
       <header className='bg-primary text-white text-center py-4'>
-        <h1>Jumong ChatBot</h1>
+        <h1>Spark ChatBot</h1>
       </header>
 
       <ChatInput onSubmit={handleQuestionSubmit} />
